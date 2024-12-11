@@ -1,0 +1,14 @@
+opencv-python
+torch
+torchvision
+numpy
+scipy
+matplotlib
+pillow
+filterpy
+lap
+openvino
+ultralytics
+deep_sort_realtime
+
+
